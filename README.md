@@ -3,7 +3,6 @@
 <head>
 </head>
 <body>
-<h1>Spam Email Classification Project</h1>
 <h2>Introduction</h2>
 <p>In today's digital age, email has become a popular mode of communication. However, with the increase in email usage, spam emails have also become a major problem. Spam emails are unwanted emails that are sent to a large number of recipients, often for commercial or malicious purposes.</p>
 <h2>Methodology</h2>
